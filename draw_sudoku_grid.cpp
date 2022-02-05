@@ -1,6 +1,6 @@
-#include <iostream>
-using namespace std;
-const int SIZE = 9;
+#include <iostream> // used to print or output text characters to console
+using namespace std; // defines the scope of the project and ensures variables name are not the same
+const int SIZE = 9; // constant variable to hold grid size for a 9x9 sudoku grid
 
 int main()
 {
